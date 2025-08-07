@@ -1,0 +1,5 @@
+txt: 1
+java: 5
+no_extension: 2
+class: 6
+prefs: 2

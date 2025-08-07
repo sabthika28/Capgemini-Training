@@ -1,0 +1,6 @@
+SlNo Name Email Course Marks
+1 SABTHIKA sab@gmail.com cse 300
+2 STANA sta@gmail.com b.com 200
+3 VIJAI vij@gmail.com mech 400
+4 RISHIKA ris@gmail.com mba 350
+5 SWETHA swe@gmail.com m.com 100
